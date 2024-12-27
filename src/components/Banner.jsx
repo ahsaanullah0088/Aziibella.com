@@ -17,7 +17,7 @@ const Banner = () => {
             <div className="relative z-10 text-left text-white max-w-2xl pl-8 space-y-6 animate-fadeIn">
                 {/* First Text */}
                 <h1 className="text-5xl md:text-7xl font-extrabold text-blue-400 leading-tight">
-                Aziibella , your trusted Manufacturer
+                Aziibella, Your Trusted Manufacturer
                 </h1>
 
                 {/* Second Text */}
