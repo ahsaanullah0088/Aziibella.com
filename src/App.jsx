@@ -5,7 +5,7 @@ import About from './pages/About/About';
 import Shop from './pages/Shop/Shop';
 import Contact from './pages/Contact/Contact';
 import Blog from './pages/Blog/Blog';
-import SignIn from './pages/Signin/Signin';
+import Signin from './pages/Signin/Signin';
 import Home from './pages/Home/Home';
 import Signup from './pages/Signup/Signup';
 
